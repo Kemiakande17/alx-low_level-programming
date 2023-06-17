@@ -1,9 +1,9 @@
-#include<stdio.h>
+#include <stdio.h>
 /**
+ * Multi-line comment for puts.c file
+ * main - Entry point
  *
- *main - Entry point
- *
- *Return: Always 0 (Success)
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
