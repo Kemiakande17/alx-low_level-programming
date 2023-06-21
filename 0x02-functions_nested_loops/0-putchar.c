@@ -1,4 +1,6 @@
 #include "main.h"
+#include <stdio.h>
+
 /**
  * main - Function of functions
  * Return: 0 Always (Success)
