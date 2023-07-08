@@ -6,11 +6,11 @@
 * @argc: number of arguments
 * @argv: array of arguments
 *
-*Return: Aleays 0 (Successs)
+*Return: Always 0 (Successs)
 */
 
-int main(int argc, char argv[argc -1])
+int main(int argc, char **argv)
 {
-printf("%s\n", argv);
+printf("%s\n", argv[argc - 1]);
 return (0);
 }
